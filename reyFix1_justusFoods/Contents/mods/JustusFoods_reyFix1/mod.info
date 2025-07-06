@@ -1,0 +1,9 @@
+id=justusfoods_reyFix1
+
+Icon=rey64x64.png
+poster=reyFix1_justusFoods.png
+
+require=justusfoods
+
+name=JustusFoods [reyFix1][Load OG first]
+description=justusfoods + junkfoods_ph patch

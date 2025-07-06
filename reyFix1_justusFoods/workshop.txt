@@ -1,0 +1,24 @@
+version=1
+id=3512795469
+title=JustusFoods [reyFix1]
+description=REYNEP humbly asks you to check Steam Page, for now. Thank, you!
+description=
+description=Free Palestine!
+description=Stop ZIONISTS from decimating / genociding babies, kids & innocent people into oblivion
+description=Start to Speak Up, anything that you can.
+description=Thank You.
+description=
+description=Fixes
+description=1. JustUsFoods + JunkFood_ph Patch
+description=
+description=Mentioned Thingies
+description=- JustUsFoods:- https://steamcommunity.com/sharedfiles/filedetails/?id=2793207714
+description=- JunkFood_PH:- https://steamcommunity.com/sharedfiles/filedetails/?id=2755094183
+description=
+description=[FROM THE RIVER TO THE SEA
+description=PALESTINE, WILL BE FREE]
+description=
+description=Workshop ID: 3512795469
+description=Mod ID: reyFix1_justusFoods
+tags=Build 41;Food;Items
+visibility=public
