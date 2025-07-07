@@ -7,7 +7,7 @@ Start to Speak Up, anything that you can.
 Thank You.
 
 Fixes
-1. JustUsFoods + JunkFood_ph Patch
+1. JustUsFoods + JunkFood_ph Patch. 😅 justusfoods author forgot to rename .lua + .txt files + module names
 
 Mentioned Thingies
 - JustUsFoods:- https://steamcommunity.com/sharedfiles/filedetails/?id=2793207714

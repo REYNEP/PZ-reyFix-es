@@ -3,7 +3,7 @@ id=justusfoods_reyFix1
 Icon=rey64x64.png
 poster=reyFix1_justusFoods.png
 
-require=justusfoods
+require=justusfoods,junkfoods_ph
 
-name=JustusFoods [reyFix1][Load OG first]
-description=justusfoods + junkfoods_ph patch
+name=justusfoods + junkfoods_ph [reyFix1][Load OG first]
+description=justusfoods + junkfoods_ph patch. Load justusfoods [OG] + junkfoods_ph [OG] first
